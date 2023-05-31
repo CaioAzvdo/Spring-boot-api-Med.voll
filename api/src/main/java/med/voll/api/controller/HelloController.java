@@ -10,6 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
     @GetMapping
     public String olaMundo(){
-        return "Estou fazendo uma mudança aq pae, ve ai se funfou";
+        return "Estou fazendo uma mudança aq pae, olha ai se funfou";
     }
 }
