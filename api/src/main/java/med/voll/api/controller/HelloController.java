@@ -10,6 +10,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
     @GetMapping
     public String olaMundo(){
-        return "olá bem vindo ao mundo spring dasd";
+        return "pão de batata";
     }
 }
